@@ -22,6 +22,8 @@
     <pre>yarn add ts-jest -D</pre>
     <pre>npm i --save-dev @types/jest</pre>
     <pre>npm i jest -D</pre>
+    <pre>yarn add cross-env -D</pre>
+    <pre>npm install supertest @types/supertest -D</pre>
 </details>
 
 <details>
