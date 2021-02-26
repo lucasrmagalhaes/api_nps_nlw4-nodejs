@@ -1,5 +1,6 @@
 <details>
-    <summary><strong>Comandos executados:</strong></summary>
+    <summary><strong>Comandos</strong></summary>
+<br />
 <pre>yarn init</pre>
 <pre>yarn add express</pre>
 <pre>yarn add @types/express -D</pre>
@@ -15,11 +16,39 @@
 <pre>yarn typeorm migration:revert</pre>
 <pre>yarn add uuid</pre>
 <pre>yarn add @types/uuid -D</pre>
+<pre>npx typeorm migration:create -n CreateSurveys</pre>
 <pre></pre>
 <pre></pre>
-<pre></pre>
-<pre></pre>
-<pre></pre>
-<pre></pre>
-<pre></pre>
-<pre></pre>
+
+</details>
+
+<details>
+    <summary><strong>Atalhos</strong></summary>
+<br />
+<p align="left">
+    <ul>
+        <li>Removendo os imports: Alt + Shift + O</li>
+        <li>Renomear duas coisas ao mesmo tempo: Ctrl + D</li>
+        <li></li>
+        <li></li>
+    </ul>
+</p>
+
+</details>
+
+<details>
+    <summary><strong>Testes</strong></summary>
+<br />
+<p align="left">
+    <strong>Testes Automatizados</strong><br /><br />
+    <ol>
+        <li>Testes Unitários</li>
+        <li>
+            Testes de Integração <br />
+            -> routes -> controller -> respository <br />
+             <- repository <- controller <- response
+        </li>
+    </ol>
+</p>
+
+</details>
