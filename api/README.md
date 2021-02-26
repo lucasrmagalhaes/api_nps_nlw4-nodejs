@@ -24,6 +24,11 @@
     <pre>npm i jest -D</pre>
     <pre>yarn add cross-env -D</pre>
     <pre>npm install supertest @types/supertest -D</pre>
+    <pre>npx typeorm migration:create -n CreateSurveysUsers</pre>
+    <pre></pre>
+    <pre></pre>
+    <pre></pre>
+    <pre></pre>
 </details>
 
 <details>
