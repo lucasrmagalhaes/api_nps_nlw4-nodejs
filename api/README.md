@@ -37,7 +37,7 @@
     <p align="left">
         <ul>
             <li>Removendo os imports: Alt + Shift + O</li>
-            <li>Renomear duas coisas ao mesmo tempo: Ctrl + D</li>
+            <li>Renomear mais de uma linha: Ctrl + Shift + L</li>
             <li></li>
             <li></li>
         </ul>
