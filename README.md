@@ -36,7 +36,7 @@
 <details>
     <summary><strong>Comandos</strong></summary>
     <br />
-    <p>Comando utilizando durante o desenvolvimento da API:</p>
+    <p><strong>Comandos utilizados durante o desenvolvimento da API:</strong></p>
     <br />
     <pre>yarn init</pre>
     <pre>yarn add express</pre>
@@ -74,7 +74,7 @@
     <summary><strong>Atalhos</strong></summary>
     <br />
     <p align="left">
-        Atalhos interessantes no Visual Studio Code:
+        <strong>Atalhos interessantes no Visual Studio Code:</strong>
         <br />
         <ul>
             <li>Removendo os imports: Alt + Shift + O</li>
@@ -89,8 +89,10 @@
     <summary><strong>Testes</strong></summary>
     <br />
     <p align="left">
-      Testes de Integração <br />
-      -> routes -> controller -> respository <br />
+      <strong>Testes de Integração</strong> 
+      <br />
+      -> routes -> controller -> respository 
+      <br />
       <- repository <- controller <- response
     </p>
 </details>
