@@ -1,3 +1,5 @@
+
+
 <details>
     <summary><strong>Comandos</strong></summary>
     <br />
@@ -27,8 +29,8 @@
     <pre>npx typeorm migration:create -n CreateSurveysUsers</pre>
     <pre>npm i nodemailer</pre>
     <pre>npm install handlebars</pre>
-    <pre></pre>
-    <pre></pre>
+    <pre>yarn add yup</pre>
+    <pre>yarn add express-async-errors</pre>
 </details>
 
 <details>
@@ -38,8 +40,6 @@
         <ul>
             <li>Removendo os imports: Alt + Shift + O</li>
             <li>Renomear mais de uma linha: Ctrl + Shift + L</li>
-            <li></li>
-            <li></li>
         </ul>
     </p>
 </details>
@@ -48,14 +48,21 @@
     <summary><strong>Testes</strong></summary>
     <br />
     <p align="left">
-        <strong>Testes Automatizados</strong><br /><br />
-        <ol>
-            <li>Testes Unitários</li>
-            <li>
-                Testes de Integração <br />
-                -> routes -> controller -> respository <br />
-                <- repository <- controller <- response
-            </li>
-        </ol>
+        <strong>Testes Automatizados</strong> <br /><br />
+        Testes Unitários <br /> <br />
+        Testes de Integração <br />
+        -> routes -> controller -> respository <br />
+        <- repository <- controller <- response
     </p>
+</details>
+
+<details>
+    <summary><strong>Extensões</strong></summary>
+    <br />
+    <ul>
+        <li>Omni</li>
+        <li>Material Icon Theme</li>
+        <li>Code Spell Checker</li>
+        <li>Bracket Pair Colorizer</li>
+    </ul>
 </details>
