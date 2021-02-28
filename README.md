@@ -16,9 +16,10 @@
 <hr />
 
 <details>
-  <summary><strong>Sources</strong></summary>
+  <summary><strong>Fontes</strong></summary>
   <br />
-  
+  <p><strong>Fontes utilizadas no projeto:</strong></p>
+ 
   - [yup](https://github.com/jquense/yup)
   - [handlebarsjs](https://handlebarsjs.com/)
   - [Ethereal](https://ethereal.email/)
@@ -102,7 +103,7 @@
 <details>
     <summary><strong>Extensões</strong></summary>
     <br />
-    <p>Extensões recomendadas:</p>
+    <p><strong>Extensões recomendadas:</strong></p>
     <br />
     <ol>
         <li>Omni</li>
