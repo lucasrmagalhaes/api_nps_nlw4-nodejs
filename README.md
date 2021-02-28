@@ -6,7 +6,7 @@
     />
   </a>
   <br />
-  <i>API - Net Promoter Score</i>
+  <strong><i>API - Net Promoter Score.<br />Desenvolvida durante o evento gratuito da Rocketseat - NLW#4, trilha Node.js.</i></strong>
 </p>
 
 <details>
