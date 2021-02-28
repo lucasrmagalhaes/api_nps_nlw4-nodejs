@@ -1,4 +1,6 @@
-<h3>API - Net Promoter Score.<br />Desenvolvida durante o evento gratuito da Rocketseat - NLW#4, trilha: Node.js.</h3>
+<h3>API - Net Promoter Score.<br />Desenvolvida durante o evento gratuito da Rocketseat - NLW#4 | Trilha: Node.js.</h3>
+
+<hr />
 
 <p align="center">
   <a href="#">
@@ -8,6 +10,8 @@
     />
   </a>
 </p>
+
+<hr />
 
 <details>
     <summary><strong>Comandos</strong></summary>
@@ -44,6 +48,8 @@
     <pre>yarn add express-async-errors</pre>
 </details>
 
+<hr />
+
 <details>
     <summary><strong>Atalhos</strong></summary>
     <br />
@@ -54,6 +60,8 @@
         </ul>
     </p>
 </details>
+
+<hr />
 
 <details>
     <summary><strong>Testes</strong></summary>
@@ -67,6 +75,8 @@
     </p>
 </details>
 
+<hr />
+
 <details>
     <summary><strong>Extensões</strong></summary>
     <br />
@@ -77,3 +87,5 @@
         <li>Bracket Pair Colorizer</li>
     </ul>
 </details>
+
+<hr />
