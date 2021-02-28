@@ -16,6 +16,24 @@
 <hr />
 
 <details>
+  <summary><strong>Sources</strong></summary>
+  <br />
+  
+  - [yup](https://github.com/jquense/yup)
+  - [handlebarsjs](https://handlebarsjs.com/)
+  - [Ethereal](https://ethereal.email/)
+  - [Nodemailer](https://nodemailer.com/about/)
+  - [supertest](https://www.npmjs.com/package/supertest)
+  - [Beekeeper](https://www.beekeeperstudio.io/)
+  - [TypeORM](https://typeorm.io/#/)
+  - [Knex.js](http://knexjs.org/)
+  - [Yarn](https://yarnpkg.com/getting-started/install)
+  - [node-postgres](https://node-postgres.com/)
+</details>
+
+</hr>
+
+<details>
     <summary><strong>Comandos</strong></summary>
     <br />
     <p>Comando utilizando durante o desenvolvimento da API:</p>
