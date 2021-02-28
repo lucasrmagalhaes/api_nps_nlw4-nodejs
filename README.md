@@ -82,7 +82,7 @@
 <details>
     <summary><strong>Extensões</strong></summary>
     <br />
-    <p>Extensôes recomendadas:</p>
+    <p>Extensões recomendadas:</p>
     <br />
     <ol>
         <li>Omni</li>
