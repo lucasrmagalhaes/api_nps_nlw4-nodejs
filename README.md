@@ -1,6 +1,6 @@
 <hr />
 
-<h4>API - Net Promoter Score.<br />Desenvolvida durante o evento gratuito da Rocketseat - NLW#4 | Trilha: Node.js.</h4>
+<h4>API - Net Promoter Score.<br />Desenvolvida durante o evento gratuito da Rocketseat | NLW#4 | Trilha: Node.js.</h4>
 
 <hr />
 
