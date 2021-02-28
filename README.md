@@ -1,6 +1,6 @@
 <hr />
 
-<h5>API - Net Promoter Score.<br />Desenvolvida durante o evento gratuito da Rocketseat - NLW#4 | Trilha: Node.js.</h5>
+<h4>API - Net Promoter Score.<br />Desenvolvida durante o evento gratuito da Rocketseat - NLW#4 | Trilha: Node.js.</h4>
 
 <hr />
 
@@ -18,7 +18,7 @@
 <details>
     <summary><strong>Comandos</strong></summary>
     <br />
-    <p>Comando utilizando durante o desenvolvimento.</p>
+    <p>Comando utilizando durante o desenvolvimento da API:</p>
     <br />
     <pre>yarn init</pre>
     <pre>yarn add express</pre>
@@ -56,6 +56,8 @@
     <summary><strong>Atalhos</strong></summary>
     <br />
     <p align="left">
+        Atalhos interessantes no Visual Studio Code:
+        <br />
         <ul>
             <li>Removendo os imports: Alt + Shift + O</li>
             <li>Renomear mais de uma linha: Ctrl + Shift + L</li>
@@ -69,11 +71,9 @@
     <summary><strong>Testes</strong></summary>
     <br />
     <p align="left">
-        <strong>Testes Automatizados</strong> <br /><br />
-        Testes Unitários <br /> <br />
-        Testes de Integração <br />
-        -> routes -> controller -> respository <br />
-        <- repository <- controller <- response
+      Testes de Integração <br />
+      -> routes -> controller -> respository <br />
+      <- repository <- controller <- response
     </p>
 </details>
 
@@ -82,12 +82,14 @@
 <details>
     <summary><strong>Extensões</strong></summary>
     <br />
-    <ul>
+    <p>Extensôes recomendadas:</p>
+    <br />
+    <ol>
         <li>Omni</li>
         <li>Material Icon Theme</li>
         <li>Code Spell Checker</li>
         <li>Bracket Pair Colorizer</li>
-    </ul>
+    </ol>
 </details>
 
 <hr />
