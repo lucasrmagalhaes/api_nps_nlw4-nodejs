@@ -16,6 +16,22 @@
 <hr />
 
 <details>
+  <summary><strong>Sobre</strong></summary>
+  <br />
+  <p align="left">
+    <strong>Dia 1:</strong> Fundamentos do Node.js
+    <br />
+    <strong>Dia 2: </strong> Iniciando com o Banco de Dados
+    <br />
+    <strong>Dia 3: </strong> Testando a Nossa Aplicação
+    <br />
+    <strong>Dia 4: </strong> Envio de E-mail
+    <br />
+    <strong>Dia 5: </strong> Finalizando Nossa API com Validações
+  </p>
+</details>
+
+<details>
   <summary><strong>Fontes</strong></summary>
   <br />
   <p><strong>Fontes utilizadas no projeto:</strong></p>
