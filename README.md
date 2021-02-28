@@ -1,3 +1,5 @@
+<h3>API - Net Promoter Score.<br />Desenvolvida durante o evento gratuito da Rocketseat - NLW#4, trilha: Node.js.</h3>
+
 <p align="center">
   <a href="#">
     <img 
@@ -5,12 +7,12 @@
          alt="API NPS" 
     />
   </a>
-  <br />
-  <strong><i>API - Net Promoter Score.<br />Desenvolvida durante o evento gratuito da Rocketseat - NLW#4, trilha Node.js.</i></strong>
 </p>
 
 <details>
     <summary><strong>Comandos</strong></summary>
+    <br />
+    <p>Comando utilizando durante o desenvolvimento.</p>
     <br />
     <pre>yarn init</pre>
     <pre>yarn add express</pre>
