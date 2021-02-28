@@ -104,7 +104,6 @@
     <summary><strong>Extensões</strong></summary>
     <br />
     <p><strong>Extensões recomendadas:</strong></p>
-    <br />
     <ol>
         <li>Omni</li>
         <li>Material Icon Theme</li>
