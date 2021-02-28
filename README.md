@@ -28,10 +28,10 @@
   - [TypeORM](https://typeorm.io/#/)
   - [Knex.js](http://knexjs.org/)
   - [Yarn](https://yarnpkg.com/getting-started/install)
-  - [node-postgres](https://node-postgres.com/)
+  
 </details>
 
-</hr>
+<hr />
 
 <details>
     <summary><strong>Comandos</strong></summary>
