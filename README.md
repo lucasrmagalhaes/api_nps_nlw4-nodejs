@@ -19,17 +19,19 @@
   <summary><strong>Sobre</strong></summary>
   <br />
   <p align="left">
-    <strong>Dia 1:</strong> Fundamentos do Node.js
+    <strong>Dia 1 -</strong> Fundamentos do Node.js
     <br />
-    <strong>Dia 2: </strong> Iniciando com o Banco de Dados
+    <strong>Dia 2 -</strong> Iniciando com o Banco de Dados
     <br />
-    <strong>Dia 3: </strong> Testando a Nossa Aplicação
+    <strong>Dia 3 -</strong> Testando a Nossa Aplicação
     <br />
-    <strong>Dia 4: </strong> Envio de E-mail
+    <strong>Dia 4 -</strong> Envio de E-mail
     <br />
-    <strong>Dia 5: </strong> Finalizando Nossa API com Validações
+    <strong>Dia 5 - </strong> Finalizando Nossa API com Validações
   </p>
 </details>
+
+<hr />
 
 <details>
   <summary><strong>Fontes</strong></summary>
