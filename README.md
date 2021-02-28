@@ -1,4 +1,13 @@
-
+<p align="center">
+  <a href="#">
+    <img 
+         src="https://github.com/lucasrmagalhaes/API_NPS_NLW4-Node.js/blob/main/api/src/assets/img/project.jpg" 
+         alt="API NPS" 
+    />
+  </a>
+  <br />
+  <i>API - Net Promoter Score</i>
+</p>
 
 <details>
     <summary><strong>Comandos</strong></summary>
