@@ -1,9 +1,3 @@
-<hr />
-
-<h4>API - Net Promoter Score.<br />Desenvolvida durante o evento gratuito da Rocketseat | NLW#4 | Trilha: Node.js.</h4>
-
-<hr />
-
 <p align="center">
   <a href="#">
     <img 
@@ -18,7 +12,11 @@
 <details>
   <summary><strong>Sobre</strong></summary>
   <br />
-  <p align="left">
+  <p align="justify">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Este projeto é uma aplicação back-end que consiste no cálculo do NPS da empresa. Nele, cadastramos usuários, cadastramos pesquisas, enviamos e-mail aos usuários para responder a pesquisas de satisfação e com isso podemos realizar o cálculo do NPS.
+    <br /> <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O Net Promoter Score é um tipo de métrica criada para medir a satisfação do cliente, como: "De 0 a 10, quanto você recomenda nossa empresa?"
+    <br /> <br />
     <strong>Dia 1 -</strong> Fundamentos do Node.js
     <br />
     <strong>Dia 2 -</strong> Iniciando com o Banco de Dados
